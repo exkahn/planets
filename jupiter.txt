@@ -1,3 +1,5 @@
 Do you have any pets? If so, what are their names?
 I don't have any pets :(
 Do you have any pets?
+Yup, I got two dogs: Russ and Angelico.
+Where are you from?
