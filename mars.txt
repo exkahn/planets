@@ -1,3 +1,4 @@
 Wolfman and Dracula are investigating MARS (a cold dead rock)
 Cold and dry, but everything is my favorite color
 Here is a change that I made on GitHub.
+Conversely, 'tis a local change thus.
